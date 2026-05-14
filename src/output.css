@@ -389,6 +389,12 @@
   .w-\[600px\] {
     width: 600px;
   }
+  .w-\[700px\] {
+    width: 700px;
+  }
+  .w-\[800px\] {
+    width: 800px;
+  }
   .w-\[1400px\] {
     width: 1400px;
   }
@@ -719,8 +725,14 @@
   .text-\[grey\] {
     color: grey;
   }
+  .text-\[whie\] {
+    color: whie;
+  }
   .text-\[white\] {
     color: white;
+  }
+  .text-\[whte\] {
+    color: whte;
   }
   .text-gray-500 {
     color: var(--color-gray-500);
